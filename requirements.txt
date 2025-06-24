@@ -14,3 +14,6 @@ chromadb
 faiss-cpu
 wikipedia
 arxiv
+groq
+beautifulsoup4
+langchain-groq
